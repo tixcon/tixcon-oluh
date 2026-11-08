@@ -1,8 +1,8 @@
-#profile-title: base64:0JTRg9C80LDQsdC10LsgVlBO
+#profile-title: base64:0JPQsNC90LTQvtC9INCS0J/QnQ==
 #support-url: https://t.me/tixcon
 #profile-update-interval: 1
 #hide-url: 1
-#announce: base64:0KHQtdGA0LLQtdGA0LAg0JPQuNGC0LvQtdGA0LAg0L3QsCDRgtC10YUuINGA0LDQsdC+0YLQsNGFLiDQmNC00Lgg0L3QsNGF0YPQuSwg0L7QvSDQvdC1INC80L7QuS4=
+#announce: base64:0KHQtdGA0LLQtdGA0LAg0LPQvtCy0L3QviDQtdCx0LDQvdC+0LU=
 #subscription-userinfo: upload=0;download=1073741824;total=107374182400;expire=2082758400
 
 vless://2868b369-dad6-4df6-b5ea-935e9bde3056@fast109.screw.page:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=edge&sni=fast109.screw.page#сво%20казахстан%20репалаз%20[550+%20мбит]%20🇩🇪
