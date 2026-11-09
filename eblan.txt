@@ -4,7 +4,153 @@
 #hide-url: 1
 #announce: base64:0KHQtdGA0LLQtdGA0LAg0LPQvtCy0L3QviDQtdCx0LDQvdC+0LU=
 #subscription-userinfo: upload=0;download=1073741824;total=107374182400;expire=2082758400
-
+{
+    "dns": {
+        "servers": [
+            "1.1.1.1",
+            "1.0.0.1",
+            "2606:4700:4700::1111",
+            "2606:4700:4700::1001"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true
+            },
+            "tag": "socks-in"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 10809,
+            "protocol": "http",
+            "settings": {
+            },
+             "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true
+            },
+            "tag": "http-in"
+        }
+    ],
+    "log": {
+        "loglevel": "warning"
+    },
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "wireguard",
+            "settings": {
+                "address": [
+                    "172.16.0.2/32",
+                    "2606:4700:110:8473:3676:c161:eebb:23/128"
+                ],
+                "mtu": 1280,
+                "peers": [
+                    {
+                        "allowedIPs": [
+                            "0.0.0.0/0",
+                            "::/0"
+                        ],
+                        "endpoint": "8.34.146.6:859",
+                        "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+                    }
+                ],
+                "secretKey": "z1MKWtb/2YubEznz2p+FuIgyi5zpOeBiYCn8Xe9hpKs="
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "dialerProxy": "noise-out"
+                }
+            },
+            "tag": "warp"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "AsIs",
+                "noises": [
+                    {
+                        "delay": "1-2",
+                        "packet": "ce0000000101a400004056160e0ac66b428015297d5e103316b68a89058b61bd795b8cdfd9e6f10e28626e7a4cdf5439f6f67a3b29b4a72361b99cd77343bcb2de18370bdb40b930b3720f46ac48c1833eea55caf480f801f7cbf2694c9860cb6b",
+                        "type": "hex"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    },
+                    {
+                        "delay": "1-3",
+                        "packet": "23-911",
+                        "type": "rand"
+                    }
+                ]
+            },
+            "tag": "noise-out"
+        }
+    ],
+    "remarks": "WARP",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "outboundTag": "noise-out",
+                "port": "53",
+                "type": "field"
+            },
+            {
+                "network": "tcp,udp",
+                "outboundTag": "warp",
+                "type": "field"
+            }
+        ]
+    }
+}
 vless://2868b369-dad6-4df6-b5ea-935e9bde3056@fast109.screw.page:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=edge&sni=fast109.screw.page#сво%20казахстан%20репалаз%20[550+%20мбит]%20🇩🇪
 
 vless://2a706239-9bb1-4e11-9b13-2d71d5497d94@c62fd3t.de22.h1clayd.click:443?type=tcp&security=reality&fp=firefox&sni=c62fd3t.de22.h1clayd.click&pbk=V7viY1Mi4OSoUBSXKHTJRBa_MJgAg9DuHCGP05KamUQ&sid=f94fb490bd1c7c94&spx=%2F#🇩🇪%20сервер%20гитлера%20[100мбит%20на%20всех]
