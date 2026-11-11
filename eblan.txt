@@ -5,8 +5,11 @@
 #announce: base64:0KHQtdGA0LLQtdGA0LAg0LPQvtCy0L3QviDQtdCx0LDQvdC+0LU=
 #subscription-userinfo: upload=0;download=1073741824;total=107374182400;expire=2082758400
 vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно 2
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371#🇷🇺 белые списки наверно 3
 vless://ad4be8ba-4800-480f-ad5d-e5e04072bf98@node14.tomalgopas.fun:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=oqK293ud6TK_j6ymNM6Iu3-SUG1FSGQrPyIXhoCz0TY#🇳🇱 спижен с бесплатной 
-
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно 4
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#🇩🇪  тоже белые но германия 
 vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@de166.mech-pro.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=de166.mech-pro.online&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&sid=16e0f049#🇩🇪 типс флип 4
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.235:443?type=xhttp&security=tls&fp=ios&sni=accounts.fastly.com&path=%2F&host=ovd13.global.ssl.fastly.net&mode=auto&alpn=h3#🇩🇪 типс флип 4 резерв
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20# кто это 
