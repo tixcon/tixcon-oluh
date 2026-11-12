@@ -2,55 +2,38 @@
 #support-url: https://t.me/tixcon
 #profile-update-interval: 1
 #hide-url: 1
-#announce: Сервера говно ебаное
+#announce: сервера говно ебаное
 #subscription-userinfo: upload=0;download=1073741824;total=107374182400;expire=2082758400
 
-# --- РАБОЧИЕ / РЕЗЕРВЫ (ТОП) ---
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?type=xhttp&security=tls&fp=firefox&sni=tansy-wharf.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6&host=is-tw-relay.cdn.cachefleet.com&mode=auto&alpn=h2#🇺🇸 резерв
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=4935e4t.de25.h1clayd.click&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&spx=%2F#🇩🇪 резерв 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY@156.67.120.205:51628#🇳🇱 резерв 3
-vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?type=grpc&security=tls&fp=chrome&sni=edge.mediacorphub.org&serviceName=hub.v1.ObjectService&alpn=h2#🇳🇱 резерв 4
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@89.125.48.218:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=nl3-edge.gacvpn.site&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb#🇳🇱 резерв 5
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug0LDRhdCw0YXQsNGF0LDRhSA2IiwiYWRkIjoiMTYyLjE1OS4xMjguMTciLCJwb3J0IjoiNDQzIiwiaWQiOiJjOGI0NTVhZC1mZmYxLTQzZTktOWFmOS1kOTc1ODVjNDUzNGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2MnJheS5yeWluLnZpcCIsInBhdGgiOiIvcnlpbnNvY2tzdjJib2FyZCIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggNyIsImFkZCI6IjEwNC4xNy4xMzYuMTk4IiwicG9ydCI6IjQ0MyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==
-
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно 2
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371#🇷🇺 белые списки наверно 3
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 белые списки наверно 4
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#🇩🇪 тоже белые но германия
-
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@de166.mech-pro.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=de166.mech-pro.online&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&sid=16e0f049#🇩🇪 типс флип 4
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.235:443?type=xhttp&security=tls&fp=ios&sni=accounts.fastly.com&path=%2F&host=ovd13.global.ssl.fastly.net&mode=auto&alpn=h3#🇩🇪 типс флип 4 резерв
+# --- РАБОЧИЕ СЕРВЕРЫ (ТОП) ---
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#кто это
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313#🇸🇪 Знакомьтесь с клавиатурой Gboard!
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=4935e4t.de25.h1clayd.click&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&spx=%2F#🇩🇪1488 🇩🇪 германия прост ахахахах
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#🇸🇪 Здесь будет сохраняться текст, 
 vless://2868b369-dad6-4df6-b5ea-935e9bde3056@fast109.screw.page:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=edge&sni=fast109.screw.page#🇩🇪 сво казахстан репалаз [550+ мбит]
+vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.235:443?type=xhttp&security=tls&sni=accounts.fastly.com&path=%2F&host=ovd13.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#🇩🇪 который вы копируете. [резерв]
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.253:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&path=%2F&host=ovd9.global.ssl.fastly.net&mode=auto&alpn=h3#🇵🇱 да блять как ее там
 
-vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=api.mediacorphub.org&serviceName=gw.v2.PushService&alpn=h2#🇳🇱 как нибудь
-
-# --- НЕРАБОЧИЕ / СТАРЫЕ ---
+# --- НЕРАБОЧИЕ СЕРВЕРЫ (НИЗ) ---
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?type=tcp&security=none#была атака ркн сервера ниже старые
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?type=tcp&security=none#те что выше я пинговал недавно
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇪🇺 5g/lte блять блтябьбываы
 trojan://reinz@104.26.6.171:443?type=ws&security=tls&sni=tsg3.pages.dev&path=%2F%3Fed%3D2560&host=tsg3.pages.dev#🌐 Anycast-IP
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20# кто это
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#👍👍👍
 vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=edge.mediacorphub.org&serviceName=hub.v1.ObjectService&alpn=h2#🇳🇱 дригаlands
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?type=ws&security=tls&fp=edge&sni=fst.krevetkabs111.net&path=%2Fapi%2Fgenerate#🇳🇱 дригаlands [резерв]
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=safari&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#🇳🇱 Нидерланды (safari)
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇳🇱 Нидерланды (raw)
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#🇳🇱 Нидерланды (firefox)
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.246:443?type=xhttp&security=tls&fp=safari&sni=accounts.fastly.com&path=%2F&host=ovd12.global.ssl.fastly.net&mode=auto&alpn=h3#🇫🇷 да блять
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.246:443?type=xhttp&security=tls&fp=safari&sni=accounts.fastly.com&path=%2F&host=ovd12.global.ssl.fastly.net&mode=auto&alpn=h3#🇫🇷 да блять 
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.246:443?type=xhttp&security=tls&fp=ios&sni=accounts.fastly.com&path=%2F&host=ovd12.global.ssl.fastly.net&mode=auto&alpn=h3#🇫🇷 да блять нахуй
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.246:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&host=ovd12.global.ssl.fastly.net&mode=auto#🇫🇷 да блять резерв
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.19.83.143:2083?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef#🇫🇷 париж
+vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.19.83.143:2083?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef#🇫🇷 париж 
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇳🇱 спасибо хорошо
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313#🇸🇪 Знакомьтесь с клавиатурой Gboard!
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#🇸🇪 Здесь будет сохраняться текст,
-vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.235:443?type=xhttp&security=tls&sni=accounts.fastly.com&path=%2F&host=ovd13.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#🇩🇪 который вы копируете. [резерв]
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=4935e4t.de25.h1clayd.click&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&spx=%2F#🇩🇪1488 🇩🇪 германия прост ахахахах
 vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.253:443?type=xhttp&security=tls&fp=chrome&sni=accounts.fastly.com&path=%2F&host=ovd9.global.ssl.fastly.net&mode=auto&alpn=h3#🇵🇱 да блять как ее там
-vless://d38d73fd-88d8-4097-91d3-d6f7217c8279@199.232.207.166:443?type=xhttp&security=tls&fp=firefox&sni=accounts.fastly.com&host=yeternek-blookwn.net&mode=packet-up#🇳🇱 пидорланды какие то по счету
+vless://d38d73fd-88d8-4097-91d3-d6f7217c8279@199.232.207.166:443?type=xhttp&security=tls&fp=firefox&sni=accounts.fastly.com&host=yeternek-blookwn.net&mode=packet-up#🇳🇱 пидорланды какие то по счету 
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru&alpn=h3#🇩🇪 гитлер
 vless://1ad0852d-958b-4a50-863d-8ef3844619ca@5.104.74.162:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=uk-room07.filesnap.tech&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751#🇬🇧 чикенбургеры грика
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#хаахаха че это
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#хаахаха че это 
 vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?type=grpc&security=tls&fp=ios&sni=assets.mediacorphub.org&serviceName=hub.v1.ObjectService&alpn=h2#🇳🇱 дригаленд пидорленд похуй
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#test test
