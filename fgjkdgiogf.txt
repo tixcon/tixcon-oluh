@@ -1,9 +1,11 @@
 #profile-title: VPN
 #profile-update-interval: 1
 #hide-url: 1
+#announce: VPN
 
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 Сервер 1
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 Сервер 2
+# --- РАБОЧИЕ СЕРВЕРЫ ---
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFar7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 Сервер 1
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFar7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 Сервер 2
 vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFar7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371#🇷🇺 Сервер 3
 vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFar7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&spx=%2F#🇷🇺 Сервер 4
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#🇩🇪 Сервер 5
@@ -18,3 +20,6 @@ vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@89.125.48.218:443?flow=xtls-rprx-vi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY@156.67.120.205:51628#🇳🇱 Сервер 14
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug0YHQtdGA0LLQtdGAIDE1IiwiYWRkIjoiMTYyLjE1OS4xMjguMTciLCJwb3J0IjoiNDQzIiwiaWQiOiJjOGI0NTVhZC1mZmYxLTQzZTktOWFmOS1kOTc1ODVjNDUzNGEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2MnJheS5yeWluLnZpcCIsInBhdGgiOiIvcnlpbnNvY2tzdjJib2FyZCIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg0YHQtdGA0LLQtdGAIDE2IiwiYWRkIjoiMTA0LjE3LjEzNi4xOTgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cyIsInRscyI6InRscyJ9
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#🇩🇪 Сервер 17
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313#🇸🇪 Сервер 18
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#🇸🇪 Сервер 19
